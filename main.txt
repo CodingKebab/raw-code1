@@ -25,8 +25,8 @@
 		icon,
 		lang = $_GET('lang'),
 		bgcolor = $_GET('bgcolor'),
-		width = $_GET('width') || 800,
-		height = $_GET('height') || 480,
+		width = $_GET('width') || 100%,
+		height = $_GET('height') || 100%,
 		html = [], 
 		args = [];
 
